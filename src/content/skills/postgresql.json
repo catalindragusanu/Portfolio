@@ -1,0 +1,8 @@
+{
+    "name": "PostgreSQL",
+    "category": "backend",
+    "level": "intermediate",
+    "icon": "postgresql",
+    "yearsOfExperience": 1,
+    "order": 5
+}

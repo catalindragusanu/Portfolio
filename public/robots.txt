@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://portfoliocatalindragusqanu.netlify.app/sitemap-index.xml
